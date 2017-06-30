@@ -1,0 +1,2 @@
+# Mapper
+mybatis mapper generator
